@@ -1,0 +1,9 @@
+{
+  "name": "objc_header_parser",
+  "version": "0.0.1",
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
